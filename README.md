@@ -12,10 +12,7 @@ A simple project to display real-time cryptocurrency prices of the top 200 crypt
 
 ### Installation
 
- Navigate to the project directory:
-```sh
-cd Live-Crypto-Price-Tracker-in-React
-```
+ Navigate to the project directory
  Install dependencies:
 ```sh
 npm install
