@@ -32,11 +32,11 @@ function App() {
       <p className="credentials">
         By{" "}
         <a
-          href="https://www.github.com/alimazhar4"
+          href=""
           target="_blank"
           rel="noreferrer"
         >
-          Ali Mazhar
+          
         </a>
       </p>
       <div className="search-bar">
@@ -88,7 +88,7 @@ function App() {
       </div>
       <div className="empty-div"></div>
       <footer>
-        For more amazing projects, you can visit my Github Profile at <a href="https://www.github.com/alimazhar4/" target="_blank" rel="noreferrer">github.com/alimazhar4</a>
+       
       </footer>
     </div>
   );
