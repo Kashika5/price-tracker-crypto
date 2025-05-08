@@ -3,7 +3,9 @@ A simple project to display real-time cryptocurrency prices of the top 200 crypt
 
 <p align="center">
   <img src="https://github.com/Kashika5/price-tracker-crypto/blob/main/Screenshot%20(19).png" width=48%>
-  
+</p>
+<p>
+  <img src="https://cryptocurrency-price-tracker-nextjs.vercel.app/" width=48%>
 </p>
 
 ## Getting Started
