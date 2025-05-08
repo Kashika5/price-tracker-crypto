@@ -2,7 +2,7 @@
 A simple project to display real-time cryptocurrency prices of the top 200 cryptos by marketcap. It uses React Hooks and Axios to fetch API data Coin Gecko API. 
 
 <p align="center">
-  <img src="" width=48%>
+  <img src="https://github.com/Kashika5/price-tracker-crypto/blob/main/Screenshot%20(19).png" width=48%>
   <img src="
 " width=48%>
 </p>
